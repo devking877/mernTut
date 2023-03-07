@@ -1,6 +1,4 @@
-# movies-app
 
-# Introduction
 4.0.4+
 -   [ExpressJS](https://expressjs.com/) 4.16.3+
 -   [ReactJS](https://reactjs.org/) 16.5.0+
